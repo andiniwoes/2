@@ -9809,19 +9809,9 @@
 	}
 
 	@font-face {
-	  font-family: 'Gotham Rounded Light';
-	  src: url("assets/fonts/GothamRounded-Light.eot");
-	  src: url("assets/fonts/GothamRounded-Light.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GothamRounded-Light.woff2") format("woff2"), url("assets/fonts/GothamRounded-Light.woff") format("woff"), url("assets/fonts/GothamRounded-Light.ttf") format("truetype"), url("assets/fonts/GothamRounded-Light.svg#GothamRounded-Light") format("svg");
-	  font-weight: 400;
-	  font-style: normal;
-	  font-stretch: normal;
-	  unicode-range: U+0020-00FE;
-	}
-
-	@font-face {
 	  font-family: 'Gotham Rounded Bold';
-	  src: url("assets/fonts/GothamRounded-Bold.eot");
-	  src: url("assets/fonts/GothamRounded-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GothamRounded-Bold.woff2") format("woff2"), url("assets/fonts/GothamRounded-Bold.woff") format("woff"), url("assets/fonts/GothamRounded-Bold.ttf") format("truetype"), url("assets/fonts/GothamRounded-Bold.svg#GothamRounded-Bold") format("svg");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.eot");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.eot?#iefix") format("embedded-opentype"), url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.woff2") format("woff2"), url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.woff") format("woff"), url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.ttf") format("truetype"), url("https://myfonts20.firebaseapp.com/fonts/GothamRounded-Bold.svg#GothamRounded-Bold") format("svg");
 	  font-weight: 400;
 	  font-style: normal;
 	  font-stretch: normal;
@@ -9830,8 +9820,8 @@
 
 	@font-face {
 	  font-family: "Montserrat";
-	  src: url("assets/fonts/Montserrat-Light.eot");
-	  src: url("assets/fonts/Montserrat-Light.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Montserrat-Light.woff2") format("woff2"), url("assets/fonts/Montserrat-Light.woff") format("woff"), url("assets/fonts/Montserrat-Light.ttf") format("truetype"), url("assets/fonts/Montserrat-Light.svg#GothamRounded-Light") format("svg");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.eot");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.eot?#iefix") format("embedded-opentype"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.woff2") format("woff2"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.woff") format("woff"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.ttf") format("truetype"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Light.svg#GothamRounded-Light") format("svg");
 	  font-weight: 300;
 	  font-style: normal;
 	  font-stretch: normal;
@@ -9840,8 +9830,8 @@
 
 	@font-face {
 	  font-family: "Montserrat";
-	  src: url("assets/fonts/Montserrat-Bold.eot");
-	  src: url("assets/fonts/Montserrat-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Montserrat-Bold.woff2") format("woff2"), url("assets/fonts/Montserrat-Bold.woff") format("woff"), url("assets/fonts/Montserrat-Bold.ttf") format("truetype"), url("assets/fonts/Montserrat-Bold.svg#GothamRounded-Light") format("svg");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.eot");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.eot?#iefix") format("embedded-opentype"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.woff2") format("woff2"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.woff") format("woff"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.ttf") format("truetype"), url("https://myfonts20.firebaseapp.com/fonts/Montserrat-Bold.svg#GothamRounded-Light") format("svg");
 	  font-weight: 700;
 	  font-style: normal;
 	  font-stretch: normal;
@@ -9850,8 +9840,8 @@
 
 	@font-face {
 	  font-family: "BarlowCondensed";
-	  src: url("assets/fonts/BarlowCondensed-Bold.eot");
-	  src: url("assets/fonts/BarlowCondensed-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/BarlowCondensed-Bold.woff2") format("woff2"), url("assets/fonts/BarlowCondensed-Bold.woff") format("woff"), url("assets/fonts/BarlowCondensed-Bold.ttf") format("truetype"), url("assets/fonts/BarlowCondensed-Bold.svg#GothamRounded-Light") format("svg");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.eot");
+	  src: url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.eot?#iefix") format("embedded-opentype"), url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.woff2") format("woff2"), url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.woff") format("woff"), url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.ttf") format("truetype"), url("https://myfonts20.firebaseapp.com/fonts/BarlowCondensed-Bold.svg#GothamRounded-Light") format("svg");
 	  font-weight: 700;
 	  font-style: normal;
 	  font-stretch: normal;
